@@ -23,7 +23,7 @@ import javax.annotation.Resource;
 @EnableSwagger2
 public class Swagger2Config {
 
-	// 該路徑底下所有 api 會自動暴露
+	// 該路徑底下所有api會自動暴露
 	public static final String BASE_PACKAGE = "com.aiaApiDemo";
 	
 	// application.properties 注入
